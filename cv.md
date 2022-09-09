@@ -1,4 +1,4 @@
-## [rsschool-cv](https://www.google.com)
+## [rsschool-cv](https://muhiddinjv.github.io/rsschool-cv/cv)
 
 # Mukhiddin Jalilkhodjaev
 
