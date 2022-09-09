@@ -12,6 +12,7 @@
 
 ## About Me
 A dedicated professional with 12 years of experience working as an educator and 1+ year of experience working as a frontend developer. Seeks to fill the Junior Web Developer position at EPAM. Has excellent communication and interpersonals skills, along with strong empathy, diversity and selfllessness (details in the cover letter below). 
+
 ***
 ## Skills
 
@@ -93,6 +94,6 @@ Below are the 5 reasons why hiring me, the ex-teacher, is the right choice. (I d
 
 4) **Selflessness:** Teachers are some of the most selfless people. They really want to make a difference in the world. They want to make a bigger impact. They care about others. This is just a great quality to have and bringing it into software development will just really make teachers stand out. Teachers can help a team thrive because they have a unique ability to bring people together and help build them up so not only are they going to be an amazing software developer themselves but help other people to be great in their jobs also.
 
-5) **Teaching:** teachers are good teachers. Also, it definitely goes without saying, teachers learn so many new skills and everyone around them is constantly trying to upskill, want to learn more and having a teacher on a team and being able to articulate these ideas to teammates, to other teams also because a software developer doesn't just work with other developers, he works with UX guys, he work with marketing, he works with leadership. Being able to teach everyone else about what he's doing and why is so valuable...
+5) **Teaching:** teachers are good teachers. Also, it definitely goes without saying, teachers learn so many new skills and everyone around them is constantly trying to upskill, want to learn more and having a teacher on a team and being able to articulate these ideas to teammates, to other teams also because a software developer doesn't just work with other developers, he works with UX guys, he work with marketing, he works with leadership. Being able to teach everyone else about what he's doing and why is so valuable.
 
 
