@@ -13,7 +13,7 @@
 ## About Me
 A dedicated professional with 12 years of experience working as an educator and 1+ year of experience working as a frontend developer. Seeks to fill the Junior Web Developer position at EPAM. Has excellent communication and interpersonals skills, along with strong empathy, diversity and selfllessness (details in the cover letter below). 
 
-***
+
 ## Skills
 
 | Frontend           | Backend      | Tools    | Methods    |
@@ -25,7 +25,7 @@ A dedicated professional with 12 years of experience working as an educator and 
 | React (Native)     | Firebase     | Terminal | YAGNI      |
 | Redux, Axios       | GraphQL      | Npm/Yarn | Clean Code |
 
-***
+
 ## Code Example
 The function below creates a universally unique id (uuid) which is very useful when working with React.
 ```
@@ -36,9 +36,8 @@ const uuid = () => {
   });
 }
 ```
-*** 
-## Experience 
 
+## Experience 
 ###  Frontend Developer at Founderz Inc (June, 2022 - August, 2022)
    * Developed a no-code platform for the Japanese market
    * Added a new feature that improved access to 1400+ icons by 50%
@@ -61,26 +60,29 @@ const uuid = () => {
   
 ### English Tutor at > Access Point > TUIT > Self-Employed (2010-2021)
   * Helped nearly 1000 people get into their dream schools, immigrate, or get their dream jobs 
-***
+
 ## Education
+
 * Udemy, freecodecamp, w3school, uzbekcoders (2019-2022)
-    * Taught myself HTML, CSS, JavaScript & React, and built several full-stack web apps
+  * Taught myself HTML, CSS, JavaScript & React, and built several full-stack web apps
 * Management Development Institute of Singapore in Tashkent (2010)
-    * Computer Information Systems in Business (studied the foundation course)
+  * Computer Information Systems in Business (studied the foundation course)
 * High School # 9, Tashkent, Uzbekistan (1990-2001)
-    * General Education
-***
+  * General Education
+
 ## Languages
+
   * Uzbek: Native
   * English: Advanced
   * Russian: Intermediate
   * Turkish: Elementary
   * Arabic: Beginner
-***
+
 ## Achievements
+
 - IELTS 8.0: Speaking 9.0, Reading 8.5, Listening 7.5, Writing 6.5 - April, 2019
 - #100DaysOfCode completed in only 10 (not 100) days by coding 10 hours a day - June, 2021
-***
+
 
 # Cover Letter
 
