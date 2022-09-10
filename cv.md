@@ -38,6 +38,7 @@ const uuid = () => {
 ```
 
 ## Experience 
+
 ###  Frontend Developer at Founderz Inc (June, 2022 - August, 2022)
    * Developed a no-code platform for the Japanese market
    * Added a new feature that improved access to 1400+ icons by 50%
