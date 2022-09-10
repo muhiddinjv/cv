@@ -1,1 +1,1 @@
-https://muhiddinjv.github.io/rsschool-cv/index.html
+https://muhiddinjv.github.io/rsschool-cv/index.html 
