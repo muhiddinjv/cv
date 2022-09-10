@@ -6,6 +6,7 @@
 
 - **Phone**: +998935399093
 - **Telegram**: @muhiddinjv
+- **Discord**: Muhiddin#8568
 - **Email**: muhiddinjv@gmail.com
 - **Github**: [github.com/muhiddinjv](https://github.com/muhiddinjv)
 - **LinkedIn**: [linkedin.com/in/muhiddinjv](https://www.linkedin.com/in/muhiddinjv/)
@@ -27,14 +28,9 @@ A dedicated professional with 12 years of experience working as an educator and 
 
 
 ## Code Example
-The function below creates a universally unique id (uuid) which is very useful when working with React.
+The function below takes a string and returns a new string with all vowels removed.
 ```
-const uuid = () => {
-  return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
-    let r = Math.random() * 16 | 0, v = c === 'x' ? r : (r && 0x3 | 0x8);
-    return v.toString(16);
-  });
-}
+const disemvowel = (str) => str.replace(/[aeiou]/ig,"");
 ```
 
 ## Experience 
