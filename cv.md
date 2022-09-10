@@ -6,6 +6,7 @@
 
 - **Phone**: +998935399093
 - **Telegram**: @muhiddinjv
+- **Discord**: Muhiddin#8568
 - **Email**: muhiddinjv@gmail.com
 - **Github**: [github.com/muhiddinjv](https://github.com/muhiddinjv)
 - **LinkedIn**: [linkedin.com/in/muhiddinjv](https://www.linkedin.com/in/muhiddinjv/)
@@ -27,15 +28,16 @@ A dedicated professional with 12 years of experience working as an educator and 
 
 
 ## Code Example
-The function below creates a universally unique id (uuid) which is very useful when working with React.
+The function below takes a string and returns a new string with all vowels removed.
 ```
-const uuid = () => {
-  return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
-    let r = Math.random() * 16 | 0, v = c === 'x' ? r : (r && 0x3 | 0x8);
-    return v.toString(16);
-  });
-}
+const disemvowel = (str) => str.replace(/[aeiou]/ig,"");
 ```
+
+## Projects
+  * [E-commerce](https://scandis.web.app): It fetches data from GraphQL endpoint and provides an interface to interact with the data. (Tech stack)
+FE: HTML5, CSS3, BEM, Sass, JS ES6, React, Redux, Formik. BE: GraphQL, Webpack, Babel, Github, Yarn, Deployed to Firebase. Used CRUD BEM DRY KISS.
+  * [Travel App](https://trawelo.herokuapp.com): It's a Javascript-heavy travel app with a clean UI. It targets the DOM, working with 3 objects, and retrieving data from 3 APIs each of which is reliant on another to work. It's all done in a webpack environment, using an express server, and wrapped up with service workers. Deployed to Heroku.
+  * [Netflix Clone](https://uznetflix.web.app): Used REACT, Material UI (design), Firebase (host data real time), CSS Flexbox. Its a static website which fetches data from a real netflix API so the movies are real and updated often and you can play the trailers in the Netflix Originals section.
 
 ## Experience 
 
