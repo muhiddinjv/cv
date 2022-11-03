@@ -15,14 +15,14 @@ A dedicated professional with 12 years of experience working as an educator and 
 
 ## Skills
 
-| Frontend           | Backend      | Tools    | Methods    |
-| ------------------ | ------------ | -------- | ---------- |
-| HTML5, DOM, SEO    | Node.js      | Webpack  | DRY        | 
-| SCSS, Grid, Flex   | Express.js   | Babel    | BEM        |
-| Antd, MaterialUI   | MongoDB      | Github   | OOP        |
-| JavaScript ES6, TS | Rest API     | Cypress  | KISS       | 
-| React (Native)     | Firebase     | Terminal | YAGNI      |
-| Redux, Axios       | GraphQL      | Npm/Yarn | Clean Code |
+| Frontend           | Backend      | Tools    | Methods |
+| ------------------ | ------------ | -------- | ------- |
+| HTML5, DOM, SEO    | Node.js      | Webpack  | DRY     | 
+| SCSS, Grid, Flex   | Express.js   | Babel    | BEM     |
+| Antd, MaterialUI   | MongoDB      | Github   | OOP     |
+| JavaScript ES6, TS | Rest API     | Cypress  | KISS    | 
+| React (Native)     | Firebase     | Terminal | YAGNI   |
+| Redux, Axios       | GraphQL      | Npm/Yarn | CRUD    |
 
 
 ## Code Example
