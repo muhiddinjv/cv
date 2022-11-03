@@ -12,7 +12,7 @@
 - **LinkedIn**: [linkedin.com/in/muhiddinjv](https://www.linkedin.com/in/muhiddinjv/)
 
 ## About Me
-A dedicated professional with 12 years of experience working as an educator and 1+ year of experience working as a frontend developer. Seeks to fill the Junior Web Developer position at EPAM. Has excellent communication and interpersonals skills, along with strong empathy, diversity and selfllessness (details in the cover letter below). 
+A dedicated professional with 12 years of experience working as an educator and 1+ year of experience working as a frontend developer. Has excellent communication and interpersonals skills, along with strong empathy, diversity and selfllessness (details in the cover letter below). 
 
 
 ## Skills
